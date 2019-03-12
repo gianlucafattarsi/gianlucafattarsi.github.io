@@ -1,10 +1,10 @@
 {
   "menu": {
-    "about": "about",
-    "education": "education",
-    "skill": "skills",
+    "about": "informazioni personali",
+    "education": "istruzione e formazione",
+    "skills": "skills",
     "italiancoders": "italianCoders",
-    "projects": "projects",
-    "interests": "interests"
+    "projects": "progetti",
+    "interests": "interessi"
   }
 }

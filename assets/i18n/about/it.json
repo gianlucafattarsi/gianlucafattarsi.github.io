@@ -1,0 +1,10 @@
+{
+  "about": {
+    "biography": "biografia",
+    "p1": "Mi chiamo Gianluca e ho sempre avuto la passione per il computer e la programmazione. Il primo computer mi è stato regalato quanto frequentavo il primo anno di scuola media e da lì ho iniziato subito a studiare manuali e realizzare le prime applicazioni in Pascal e Turbo Pascal.",
+    "p2": "Questa passione con gli anni è cresciuta sempre di più portandomi a frequentare l'istituto tecnico ITT G.Marconi ad indirizzo informatico, ampliando le mie conoscenze nel mondo dell'informatica, dell'analisi e dell'elettronica.",
+    "p3": "Dopo aver conseguito il diploma di perito informatico, è iniziata subito la mia esperienza come programmatore nell'ambito lavorativo portandomi a conoscere nuovi linguaggi di programmazione come Delphi, Java, Typescript, Visual Basic, Groovy e Kotlin.",
+    "p4": "Il linguaggio di programmazione più utilizzato e conosciuto è Java con il quale realizzo sia la parte che riguarda il Front-End sia quella che riguarda il Back-End. La mia esperienza comprende anche la gestione di database e la realizzazione di applicazioni web e mobile per Android.",
+    "curriculum.download.link": "Scarica il curriculum vitae"
+  }
+}
