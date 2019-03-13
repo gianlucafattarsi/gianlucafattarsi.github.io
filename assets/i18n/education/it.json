@@ -1,0 +1,34 @@
+{
+  "education": {
+    "title": "Istruzione e formazione",
+    "java": {
+      "title": "Attestato di partecipazione",
+      "subtitle": "Formazione in tecnologia java",
+      "li1": "Introduzione alla piattaforma j2ee – j2se",
+      "li2": "Java base",
+      "li3": "Java avanzato",
+      "li4": "Swing",
+      "li5": "Java enterprise - web",
+      "li6": "Java enterprise - ejb"
+    },
+    "cad": {
+      "title": "Attestato progettazione grafica CAD",
+      "li1": "Introduzione ambiente CAD",
+      "li2": "Basi programmazione CAD"
+    },
+    "school": {
+      "title": "Diploma di Perito Informatico",
+      "branch": "Indirizzo: Informatica",
+      "li1": "Informatica",
+      "li2": "Elettronica"
+    }
+  },
+  "working-xp": {
+    "title": "Esperienza personale",
+    "tama": {
+      "title": "Operaio",
+      "li1": "Rifinitura parti grezze dei filtri di depurazione",
+      "area": "Area: Unità filtranti e componenti per la depurazione dell’aria"
+    }
+  }
+}
