@@ -1,6 +1,11 @@
 {
   "articles": [
     {
+      "url": "https://italiancoders.it/splash-screen-in-android-impariamo-a-crearle-nel-modo-corretto/",
+      "title": "Splash Screen in Android: impariamo a crearle nel modo corretto",
+      "image": "https://italiancoders.it/wp-content/uploads/2019/09/smartphone-mobile-loading.jpg"
+    },
+    {
       "url": "https://italiancoders.it/java-stream-approfondimento-avanzato/",
       "title": "Java Stream: approfondimento avanzato",
       "image": "https://italiancoders.it/wp-content/uploads/2019/02/java-stream-720x395.png"
